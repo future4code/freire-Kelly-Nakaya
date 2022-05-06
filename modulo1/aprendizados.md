@@ -1,0 +1,3 @@
+# Aprendizados da semana
+
+Na primeira semana do curso na **Labenu**, apredemos um pouco mais sobre a história da empresa e sua ética. Dentre os assuntos apresentados, tivemos aulas de convivência, diversidade e cultura, aulas de rotina e além dos conteúdos de programação, como Git e terminal. Também tivemos aulas de como acessar os aplicativos que utilizaremos durante todo o curso, como o Slack, Zoom, Github e Vimeo. 
