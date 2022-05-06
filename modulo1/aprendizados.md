@@ -1,0 +1,3 @@
+# Aprendizados da semana
+
+Na primeira semana de curso com a **Labenu**, aprendi um pouco sobre a empresa e sua proposta. Nos passaram a visão de trabalho que exercem como empresa e também para a sociedade. Aprendemos regras de convivência e um pouco sobre a diversidade cultural. Quanto ao assunto de programação, aprendemos a utilizar o Git Bash, GitHub e VS Code. Aprendemos também a utilizar os aplicativos, Slack, Zoom e Vimeo. 
