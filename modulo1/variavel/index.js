@@ -30,31 +30,47 @@ ValorPorDia = 6
 _________________________________________________________________________
 */
 
-let nome = "Fulano"
-console.log ("Olá, meu nome é", nome)
+//a)
 
-let idade = "23"
-console.log ("Eu tenho", idade, "anos")
+let nome =
+
+//b)
+
+//let idade =
+
+//c)
 
 console.log (typeof nome)
 console.log (typeof idade)
 
-prompt ("Qual o seu nome?")
-nome = Kelly
+//d) Undefined, porque não foi atribuído um valor à variavel.
 
-prompt ("Qual a sua idade?")
-idade = 23
+//e)
+const nomeDoUsuario = prompt ("Qual o seu nome?")
+const idadeDoUsuario = prompt ("Qual a sua idade?")
 
-console.log ("Minha idade é", idade)
+console.log (nomeDoUsuario)
+console.log (idadeDoUsuario)
 
-console.log ("Olá", nome, "você tem", idade, "anos.")
+//f)
 
-prompt ("Você acordou feliz hoje?")
-let resposta1 = sim
-let resposta2 = não
-let resposta3 = parcialmente 
+console.log (typeof nomeDoUsuario)
+console.log (typeof idadeDoUsuario)
+
+
+//g)
+
+console.log ("Olá", nomeDoUsuario, "você tem", idadeDoUsuario, "anos.")
+
+//2-
+
+ const resposta1 = prompt ("Você acordou feliz hoje?")
+ const resposta2 = prompt ("Você é menor de idade?")
+ const resposta3 = prompt ("Você é brasileiro(a)?")
 
 console.log (resposta1, resposta2, resposta3)
+
+//3-
 
 let a = 10
 let b = 25
