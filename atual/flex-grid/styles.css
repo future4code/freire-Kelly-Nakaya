@@ -26,8 +26,8 @@ nav{
 
     body {
         display: flex;
-        height: 100vh;
         flex-direction: column;
+    height: 100vh;
     }
 
     main > div {
@@ -41,7 +41,7 @@ nav{
         display: flex;
         flex-wrap: wrap;
       column-gap: 10px;
-      justify-content: center;
+      justify-content: space-between;
        
     }
 
@@ -57,12 +57,20 @@ ul > li{
     width: 30px;
 }
 
+.setinha{
+    display:inline-block;
+    padding: 5px 5px 5px 5px;
+    margin: 4px;
+    height: 30px;
+    width: 30px;
+}
+
 footer {
     background-color: mediumvioletred;
     height: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 0px 0 700px;
+    padding: 0 0px 0 600px;
     margin: 450px 0px 0px 0px;
 }
