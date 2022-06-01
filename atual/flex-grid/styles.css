@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+ }
+ 
+ header {
+    background-color: mediumvioletred;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px 0 50px;
+}
+
+nav{
+
+        width: 20%;
+        height: 84%;
+        flex-direction: column;
+        align-items: stretch;
+        position: fixed;
+        background-color: #f2d0e0;
+
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+    height: 100vh;
+    }
+
+    main > div {
+        background-color: darkgray;
+        margin: 15px;
+        height: 20%;
+        width: 20%;
+    }
+
+    .container > main {
+        display: flex;
+        flex-wrap: wrap;
+      column-gap: 10px;
+      justify-content: space-between;
+       
+    }
+
+ul > li{
+    padding: 15px 15px 15px 15px;
+}
+
+.bolinho, .home, .produtos, .carrinhos, .perfil{
+    display:inline-block;
+    padding: 5px 8px 5px 5px;
+    margin: 4px;
+    height: 30px;
+    width: 30px;
+}
+
+.setinha{
+    display:inline-block;
+    padding: 5px 5px 5px 5px;
+    margin: 4px;
+    height: 30px;
+    width: 30px;
+}
+
+footer {
+    background-color: mediumvioletred;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0px 0 600px;
+    margin: 450px 0px 0px 0px;
+}
