@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0; 
+ }
+
+header {
+    display: grid;
+    background-color: rgb(255, 188, 64);
+    grid-template-rows: 40px;
+    grid-template-columns: 1fr 60px;
+    align-items: center;
+    padding: 20px 20px 20px 20px;
+}
+
+h1{
+    padding: 30px 5px 5px 5px;
+}
+
+p {
+    padding: 30px 90% 5px 0px;
+
+}
+input {
+    display: grid;
+    align-items: center;
+    height: 100%;
+    width: 10%;
+    margin: 0% 0% 0% 92%;
+}
+button {
+  position: absolute; 
+  margin: 5px 0px 5px 1280px;
+}
+
+    section{
+     display: grid;
+     grid-template-columns: repeat(4,1fr);
+     grid-template-rows: repeat(4,1fr);;
+ }
+
+div {
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.video1{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    grid-row-gap: 1em;
+    height: 20%;
+    width: 20%
+}
+
+.video2{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    grid-row-gap: 1em;
+    height: 20%;
+    width: 20%
+}
+
+.video3{
+    display: grid;
+margin-left: auto;
+margin-right: auto;
+grid-row-gap: 1em;
+height: 20%;
+width: 20%;
+}
+
+.video4{
+    display: grid;
+margin-left: auto;
+margin-right: auto;
+grid-row-gap: 1em;
+height: 20%;
+width: 20%;
+}
+
+.video5{
+    display: grid;
+margin-left: auto;
+margin-right: auto;
+grid-row-gap: 1em;
+height: 20%;
+width: 20%;
+}
+
+.video6{
+    display: grid;
+margin-left: auto;
+margin-right: auto;
+grid-row-gap: 1em;
+height: 20%;
+width: 20%;
+}
+
+.video7{
+    display: grid;
+margin-left: auto;
+margin-right: auto;
+grid-row-gap: 1em;
+height: 20%;
+width: 20%;
+}
+
+.video8{
+    display: grid;
+margin-left: auto;
+margin-right: auto;
+grid-row-gap: 1em;
+height: 20%;
+width: 20%;
+}
+
+
+footer{
+    display: grid;
+    background-color: rgb(255, 188, 64);
+    grid-template-rows: 20px;
+    grid-template-columns: 1fr 60px;
+    align-items: center;
+    padding: 20px 0px 20px 500px;
+}
+
+.videoum{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    width: 70%;
+}
+
+#videoumdeum{
+    margin: 20px 0px 0px 50px;
+}
+
+.videodois{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    width: 70%;
+    padding: 25px 0px 0px 0px;
+}
