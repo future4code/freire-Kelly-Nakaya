@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#portfolio {
+    background-color: #96c3fd;
+    padding: 10px 5px 10px 5px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.itau{
+    width: 10%;
+
+}
+
+table img {
+    float: center;
+    width: 15%;
+    border: thin solid;
+    padding: 5px;
+    margin: 50px 50px 20px 50px;
+    text-align: center;
+}
+
+.empresas{
+margin: 100px 0px 0px 550px;
+}
+
+h2 {
+    margin: 0px 0px 50px 990px;
+}
+
+span{
+    margin: 0px 20px 0px 50px;
+}
+
+#boas-vindas {
+    background-color: rgb(216, 235, 247);
+    padding: 0px 0px 25px 0px;
+}
+
+h3{
+    margin: 0px 0px 0px 550px;
+}
+
+#apresentacao{
+    padding: 0px 0px 0px 120px;
+}
+
+.site{
+    margin: 50px 160px 50px 160px;
+}
+
+#projetos{
+    background-color: rgba(212, 246, 255, 0.719);
+    border-style: ridge;
+    border-color: black;
+    border-width: 2px;
+}
+
+.titulo-bugfixes{
+    background-color: #1d92af;
+    padding: 10px 5px 10px 5px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-width: 5px;
+    border-style: outset;
+    border-color: black;
+}
+
+.comentario{
+    padding: 50px 100px 50px 180px;
+}
+
+li{
+    list-style-type: disc;
+    list-style-position: inside;
+    margin: 0px 15px 5px 15px;
+    border-style: dashed;
+    padding: 15px 0px 0px 25px;
+}
+
+.fotocssbug {
+    float: center;
+    width: 15%;
+    border: thin solid;
+    padding: 5px;
+    margin: 50px 50px 20px 300px;
+    text-align: center;
+}
+
+.tecnologia{
+    margin: 25px 0px 40px 35px
+}
+
+#fotohtml{
+    float: center;
+    margin: 50px 112px 50px 112px;
+    padding: 100px 100px 100px 100px;
+    text-align: center;
+    width: 50%;
+}
+
+.titulo{
+    margin: 20px 20px 20px 20px;
+    padding: 20px 100px 20px 100px;
+    border-width: 20px;
+    height: 50px;
+    border-style: solid;
+    text-align: center;
+    background-color: white;
+}
+
+.pag-inicial{
+    margin: 15px 0px 15px 650px;
+    padding: 25px 25px 25px 25px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.codigo-proj, .descricao-projeto{
+    font-size: 120%;
+}
+
+.descricao-projeto{
+    margin: 0px 20px 0px 850px;
+}
+
+#js-title{
+    margin: 30px 0px 30px 1125px;
+    border-width: 5px;
+    border-style: inset;
+    border-color: black;
+    padding: 10px 10px 10px 10px;
+}
+
+.texto-js{
+    margin: 30px 0px 30px 750px;
+}
+
+.exerc-js{
+    margin: 30px 525px 30px 525px;
+}
+
+.fotojs{
+    float: center;
+    width: 15%;
+    border: thin solid;
+    padding: 5px;
+    margin: 50px 50px 20px 250px;
+    text-align: center;
+}
+
+.pag-inicialum{
+    margin: 15px 0px 15px 500px;
+    padding: 25px 25px 25px 25px;
+}
+
+#home{
+    float: center;
+    width: 15%;
+    border: thin solid;
+    padding: 5px;
+    margin: 50px 50px 20px 150px;
+    text-align: center;
+}
